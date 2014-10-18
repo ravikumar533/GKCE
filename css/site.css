@@ -1,0 +1,52 @@
+﻿body {}
+.header-text { border-bottom:none !important;}
+    .header-text p { margin-bottom: 0px !important;}
+        .header-text p span { color:#6091ba; font-weight:bolder;}
+    .header-text h1 { font-size:26px; font-weight:bolder; border:none;}
+.top-header { height:150px !important; display:block;}
+#myCarousel {height: 300px;margin-bottom: 60px;}
+#myCarousel .item { height: 300px; background-color: #777; text-align:center;}
+.quote { font-size:15px;}
+section {overflow: hidden;margin-bottom: 30px; margin-top:-8px;}
+.main-navigation {background:#6091ba; width:100%;}
+    .main-navigation a { color:#fff !important;}
+    .main-navigation a:hover {color:#6091ba !important;}
+    .main-navigation .dropdown-menu a { color: #000 !important; }
+.testimonials .carousel-controls {margin-bottom:3px;}
+.testimonials ul { padding:0 !important; list-style:none;}
+.testimonials .item { box-shadow: 0 1px 6px rgba(0, 0, 0, 0.175);border: 1px solid #d4d4d4;  border-radius: 2px; margin:8px 0;}
+    .testimonials .item .row { padding-top:4px !important;}
+    .testimonials .item p { font-size:12px;}    
+    .testimonials .item img{width:40px; border-radius:50px; margin: 4px;}
+    .testimonials .item .title { font-size:11px;}
+    .testimonials .item .name { font-size:13px; color:#6091ba; }
+.carousel-controls a .fa {transition: all 0.4s ease-in-out; padding-top:2px;background: #dddddd;color: #fff;display: inline-block;width: 20px;height: 20px;text-align: center;margin-right: 0;font-size: 12px;}
+.quote p{ font-size:12px !important;}
+article { box-shadow: 0 1px 6px rgba(0, 0, 0, 0.175);border: 1px solid #d4d4d4;  border-radius: 2px;  padding:8px 15px; margin:10px 0;}
+article h2,.links h2 {color:#6091ba;}
+.box-title { color:#6091ba; margin-top:10px;}
+.panel { background:#efefef;}
+.links a { color:#000;}
+.pagination .glyphicon{    margin-right:0px !important; /*override*/}
+.pagination a{    color:#555;}
+ul#NewsScroll{    padding:0px;    margin:0px;    list-style:none; font-size:13px;}
+.news-item{    padding:8px 4px;    margin:0px;    border-bottom:1px dotted #555; min-height:25px; }
+    .news-item:last-child {border-bottom: none !important;}
+#Gallery img { width:190px; height:140px;}
+/*Footer*/
+#Footer { margin-bottom:20px;}
+footer{ margin: 10px 0 0 0; background:#106470; padding:10px 0;}
+    footer p { color:#fff;}
+.footer-article { border:6px solid #D4E4FC; margin: 100px 5px 0; min-height:200px; background: #D4E4FC; }
+.footer-article-img { position:absolute; right:0; top:45px;}
+.footer-title1,.footer-title2,.footer-title3,.footer-title4 { color:#55C70C; font-size: 20px; font-weight:bold; margin-left:15px;}
+.footer-title1 { color:#55C70C;}
+.footer-title2 { color:#EA6F10;}
+.footer-title3 { color:#0E51AB}
+.footer-title4 {color:#0E4182;}
+.footer-list { margin-top:25px; font-size:11px; font-weight:bold;}
+.footer-title1 p,.footer-title2 p,.footer-title3 p,.footer-title4 p {margin-bottom:-12px;}
+    .footer-title1 span,.footer-title2 span,.footer-title3 span,.footer-title4 span {font-size:12px;}
+.bs-callout {padding: 10px;margin: 10px 0;border: 1px solid #eee;border-left-width: 5px;border-radius: 3px;}
+.bs-callout-info {border-left-color: #5bc0de;}
+#Map { width:100%; height:400px;}

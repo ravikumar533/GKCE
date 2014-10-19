@@ -50,3 +50,10 @@ footer{ margin: 10px 0 0 0; background:#106470; padding:10px 0;}
 .bs-callout {padding: 10px;margin: 10px 0;border: 1px solid #eee;border-left-width: 5px;border-radius: 3px;}
 .bs-callout-info {border-left-color: #5bc0de;}
 #Map { width:100%; height:400px;}
+/* Adminstration */
+#adminmembers .row{margin-bottom:30px;}
+#adminmembers h3{ margin-top:0px !important; font-weight:300;}
+#adminmembers figure img{width:150px;}
+/* Contact us Page*/
+#Contactus figure { width:100%; background:#e5e5e5; text-align:center;}
+#Contactus-Map { width:100%; height:400px; margin:20px 0;}

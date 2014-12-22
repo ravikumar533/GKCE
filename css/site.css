@@ -1,4 +1,5 @@
 ﻿body {}
+.container { width:992px !important;}
 .header-text { border-bottom:none !important;}
     .header-text p { margin-bottom: 0px !important;}
         .header-text p span { color:#6091ba; font-weight:bolder;}

@@ -23,7 +23,8 @@ section {overflow: hidden;margin-bottom: 30px; margin-top:-8px;}
     .testimonials .item .name { font-size:13px; color:#6091ba; }
 .carousel-controls a .fa {transition: all 0.4s ease-in-out; padding-top:2px;background: #dddddd;color: #fff;display: inline-block;width: 20px;height: 20px;text-align: center;margin-right: 0;font-size: 12px;}
 .quote p{ font-size:12px !important;}
-article { box-shadow: 0 1px 6px rgba(0, 0, 0, 0.175);border: 1px solid #d4d4d4;  border-radius: 2px;  padding:8px 15px; margin:10px 0;}
+/*article { box-shadow: 0 1px 6px rgba(0, 0, 0, 0.175);border: 1px solid #d4d4d4;  border-radius: 2px;  padding:8px 15px; margin:10px 0;}*/
+article { padding:8px 15px; margin:10px 0;}
 article h2,.links h2 {color:#6091ba;}
 .box-title { color:#6091ba; margin-top:10px;}
 .panel { background:#efefef;}
@@ -58,3 +59,8 @@ footer{ margin: 10px 0 0 0; background:#106470; padding:10px 0;}
 /* Contact us Page*/
 #Contactus figure { width:100%; background:#e5e5e5; text-align:center;}
 #Contactus-Map { width:100%; height:400px; margin:20px 0;}
+/* Departments */
+#DepartmentTabs { border-bottom:none !important;}
+#DepartmentTabs li{ line-height:30px; font-size:15px; text-align:right;}
+    #DepartmentTabs li.active { border-right: 2px solid #428bca;}
+#TabsContent { border-left:2px solid #106470; min-height:300px;}
